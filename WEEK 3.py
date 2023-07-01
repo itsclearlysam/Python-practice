@@ -41,7 +41,7 @@ global
 try
 import
 in
-id 
+is
 lambda
 while
 not
